@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shcherbakovevg
-- 👀 I’m interested in full-stack web development and QA-automative on python
-- 🌱 I’m currently learning Python, Django, Selenium and SQL
-- 💞️ I’m looking for web projects or startups collaboration as full-stack python programmer
+- 👀 I’m QA-automative engineer
+- 🌱 I’m currently working with Python/PyTest/Selenium/Jenkins stack
 - 📫 How to reach me: shcherbakoveugeniy@gmail.com
 
 <!---
